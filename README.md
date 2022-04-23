@@ -9,7 +9,7 @@ will be finished soon and keep updating
 3. \[ICRA 2022\] **OPV2V: An Open Benchmark Dataset and Fusion Pipeline for
 Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pdf/2109.07644.pdf)
 4. \[CVPR 2022\] **DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection.** [website](https://thudair.baai.ac.cn/index)
-5. \[RAL 2022\]**Fast and Robust Registration of Partially Overlapping Point Clouds**
+5. \[RAL 2022\]**Fast and Robust Registration of Partially Overlapping Point Clouds** [paper](https://ieeexplore.ieee.org/document/9662220) [data](https://github.com/eduardohenriquearnold/CODD)
 
 ## Collaboration framework
 1. \[ICRA 2020\] **Who2com: Collaborative Perception via Learnable Handshake Communication.** [paper](https://arxiv.org/abs/2003.09575)
