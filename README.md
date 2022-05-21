@@ -17,8 +17,9 @@ Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pd
 3. \[ECCV 2020\] **V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction.** [paper](https://arxiv.org/abs/2008.07519)
 4. \[MobiCom 2021\] **EMP: Edge-assisted Multi-vehicle Perception.** [paper](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
 5. \[NeurIPS 2021\] **Learning distilled collaboration graph for multi-agent perception.** [paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)
-6. \[arxiv\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [paper](https://arxiv.org/abs/2203.10638)
-7. \[arxiv\] **Model-Agnostic Multi-Agent Perception Framework.** [paper](https://arxiv.org/pdf/2203.13168.pdf)
+6. \[CVPR 2022\] **COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles.** [paper](https://arxiv.org/abs/2205.02222) [website](https://ut-austin-rpl.github.io/Coopernaut/) 
+7. \[arxiv\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [paper](https://arxiv.org/abs/2203.10638)
+8. \[arxiv\] **Model-Agnostic Multi-Agent Perception Framework.** [paper](https://arxiv.org/pdf/2203.13168.pdf)
 
 ## Robustness to localization error
 1. \[CoRL 2020\] **Learning to Communicate and Correct Pose Errors.** [paper](https://arxiv.org/abs/2011.05289)
