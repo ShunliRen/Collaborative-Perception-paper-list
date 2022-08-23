@@ -23,10 +23,13 @@ Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pd
 5. \[NeurIPS 2021\] **Learning distilled collaboration graph for multi-agent perception.** [paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)
 6. \[RAL 2022\] **Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving.** [paper](https://arxiv.org/abs/2109.11615)
 7. \[CVPR 2022\] **COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles.** [paper](https://arxiv.org/abs/2205.02222) [website](https://ut-austin-rpl.github.io/Coopernaut/) 
-8. \[arxiv\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [paper](https://arxiv.org/abs/2203.10638)
+8. \[ECCV 2022\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [paper](https://arxiv.org/abs/2203.10638)
 9. \[arxiv\] **Model-Agnostic Multi-Agent Perception Framework.** [paper](https://arxiv.org/pdf/2203.13168.pdf)
 
 ## Robust Collaborative Perception
 1. \[CoRL 2020\] **Learning to Communicate and Correct Pose Errors.** [paper](https://arxiv.org/abs/2011.05289)
 2. \[IROS 2021\] **Overcoming Obstructions via Bandwidth-Limited Multi-Agent Spatial Handshaking.** [paper](https://arxiv.org/abs/2107.00771)
 3. \[ECCV 2022\] **Latency-aware collaborative perception.** [paper](https://arxiv.org/pdf/2207.08560)
+
+## Different tasks
+1. \[arxiv 2022\] **CoBEVT: Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers.** [paper]([https://arxiv.org/pdf/2207.08560])
