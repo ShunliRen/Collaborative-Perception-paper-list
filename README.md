@@ -20,7 +20,7 @@ Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pd
 2. \[CVPR 2020\] **When2com: Multi-Agent Perception via Communication Graph Grouping.** [paper](https://arxiv.org/abs/2006.00176)
 3. \[ECCV 2020\] **V2VNet: Vehicle-to-Vehicle Communication for Joint Perception and Prediction.** [paper](https://arxiv.org/abs/2008.07519)
 4. \[MobiCom 2021\] **EMP: Edge-assisted Multi-vehicle Perception.** [paper](https://xiaoshawnzhu.github.io/emp-mobicom21.pdf)
-5. \[NeurIPS 2021\] **Learning distilled collaboration graph for multi-agent perception.** [paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf)
+5. \[NeurIPS 2021\] **Learning distilled collaboration graph for multi-agent perception.** [paper](https://proceedings.neurips.cc/paper/2021/file/f702defbc67edb455949f46babab0c18-Paper.pdf) 
 6.\[RAL 2022\] **Keypoints-Based Deep Feature Fusion for Cooperative Vehicle Detection of Autonomous Driving.** [paper](https://arxiv.org/abs/2109.11615)
 7. \[CVPR 2022\] **COOPERNAUT: End-to-End Driving with Cooperative Perception for Networked Vehicles.** [paper](https://arxiv.org/abs/2205.02222) [website](https://ut-austin-rpl.github.io/Coopernaut/) 
 8. \[arxiv\] **V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer.** [paper](https://arxiv.org/abs/2203.10638)
