@@ -11,7 +11,7 @@ will be finished soon and keep updating
 2. \[ICCV Workshop 2021\] **V2X-Sim: A Virtual Collaborative Perception Dataset for Autonomous Driving.** [paper](https://arxiv.org/abs/2202.08449)
 3. \[ICRA 2022\] **OPV2V: An Open Benchmark Dataset and Fusion Pipeline for
 Perception with Vehicle-to-Vehicle Communication.** [paper](https://arxiv.org/pdf/2109.07644.pdf)
-4. \[CVPR 2022\] **DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection.** [website](https://thudair.baai.ac.cn/index)
+4. \[CVPR 2022\] **DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection.** [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yu_DAIR-V2X_A_Large-Scale_Dataset_for_Vehicle-Infrastructure_Cooperative_3D_Object_Detection_CVPR_2022_paper.pdf) [website](https://thudair.baai.ac.cn/index)
 5. \[RAL 2022\]**Fast and Robust Registration of Partially Overlapping Point Clouds** [paper](https://ieeexplore.ieee.org/document/9662220) [data](https://github.com/eduardohenriquearnold/CODD)
 6. \[RAL 2022\] **V2X-Sim: Multi-Agent Collaborative Perception Dataset and Benchmark for Autonomous Driving.** [paper](https://ieeexplore.ieee.org/abstract/document/9835036)
 
